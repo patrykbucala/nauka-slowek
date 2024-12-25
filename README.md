@@ -16,7 +16,5 @@ Aplikacja webowa umożliwiająca naukę języka angielskiego za pomocą fiszek. 
 
 ## Uruchamianie
 1. Pobierz projekt.
-2. Otwórz plik `bango.html` w przeglądarce.
+2. Otwórz plik `nauka.html` w przeglądarce.
 
-## Demo
-[Live Demo](#)
